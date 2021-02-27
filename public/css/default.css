@@ -1,0 +1,24 @@
+*{
+  padding:0;
+  margin: 0;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #C8E6C9;
+}
+
+#header{
+  background: #689F38;
+  padding: 10px;
+}
+
+#header ul li{
+  list-style:none;
+  display: inline;
+  padding: 10px;
+}
+
+#footer{
+
+}
