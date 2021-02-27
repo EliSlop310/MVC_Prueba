@@ -1,5 +1,5 @@
 <?php
-require_once 'controllers/error.php';
+require_once 'controllers/errores.php';
 
 
 class App{
@@ -22,7 +22,7 @@ function __construct(){
       $controller->{$url[1]}();
     }
   }else{
-    $controller = new Error();
+    $controller = new Errores();
   }
 }
 
