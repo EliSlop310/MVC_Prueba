@@ -6,5 +6,9 @@ class View{
     echo "<p> Vista base </p>";
   }
   
+  function render($nombre){
+    require 'views/' . $nombre . '.php'; 
+  }
+  
 }
 ?>
