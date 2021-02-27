@@ -4,13 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-AU-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Mantente Saludable</title>
   </head>
  <body>
    <?php require 'views/header.php';?>
    
     <div id="main">
-        <h1 class="center"> Bienvenido a Salud de buen Comer</h1>
+        <h1 class="center"> ¿Mala alimentacion?</h1>
+        //infor de enfermedades o trastornos alimenticios
     </div>  
    <?php require 'views/footer.php';?>
  </body>
