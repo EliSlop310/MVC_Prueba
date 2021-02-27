@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-AU-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Recetas y Tips</title>
   </head>
  <body>
    <?php require 'views/header.php';?>
    
     <div id="main">
-        <h1 class="center"> Bienvenido a Salud de buen Comer</h1>
+        <h1 class="center"> Recetas y Tips </h1>
     </div>  
    <?php require 'views/footer.php';?>
  </body>
