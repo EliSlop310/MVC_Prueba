@@ -19,6 +19,27 @@ body{
   padding: 10px;
 }
 
-#footer{
+#header ul li a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
 
+#footer{
+  background-color: #33691E;
+  padding: 20px;
+}
+
+#main{
+  padding: 20px 0;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.center{
+  text-aline:center;
+}
+
+.error{
+  color: red;
 }
