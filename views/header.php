@@ -11,7 +11,7 @@
    
    <div id="header">
       <ul>
-        <li><a href="index">Inicio</a></li>
+        <li><a href="main">Inicio</a></li>
         <li><a href="consulta">Recetas y Tips</a></li>
         <li><a href="plato">Plato del Buen comer</a></li>
         <li><a href="ayuda">¿Mala alimentacion?</a></li>
