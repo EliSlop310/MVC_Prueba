@@ -11,8 +11,12 @@ function __construct(){
    
   $archivoController = 'controllers/' . $url[0] . 'php';
   
+  if(file_exists($archivoController)){
   require_once $archivoController;
   $controller = new $url[0];
+  }else{
+  
+  }
 }
 
 }                                    
