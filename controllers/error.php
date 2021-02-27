@@ -4,7 +4,8 @@ class Error extends Controller{
   
   function __construct(){
   parent::__construct();
-  echor "<p> Error al cargar recurso </p>"
+  $this->view->render('error/index');  
+  //echor "<p> Error al cargar recurso </p>"
   }
 }
 
