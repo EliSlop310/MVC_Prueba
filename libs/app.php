@@ -17,7 +17,7 @@ function __construct(){
       $controller = new Main();
       return false;
   }
-  $archivoController = 'controllers/' . $url[0] . 'php';
+  $archivoController = 'controllers/' . $url[0] . '.php';
   
   if(file_exists($archivoController)){
   require_once $archivoController;
