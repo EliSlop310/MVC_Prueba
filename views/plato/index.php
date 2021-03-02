@@ -10,21 +10,15 @@
  <body>
    <?php require 'views/header.php';?>
    
-
- 
  <div id="main">
         <h1 class="center"> Plato del Buen Comer</h1>
  </div>  
    
-
 <div id="container">
 <img id="plato" src="public/img/platobc.jpg" alt="[Imagen] Plato del buen comer">
 </div>
 
-
 <?php require 'views/footer.php';?>
 
-
  </body>
-
 </html>
