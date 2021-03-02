@@ -6,10 +6,7 @@ class Main extends Controller{
     $this->view->render('main/index');
    //echo "<p>Nuevo controlador Main</p>";
   }
-  
-  function saludo(){
-    echo "<p> Ejecutaste el metodo Saludo</p>";
-  }
+
 }
 
 ?>
