@@ -1,0 +1,75 @@
+#informacion{
+  background-color:  #c5e3df;
+  border: solid 3px #3d789c;
+  float:left;
+  width: 800px;
+
+}
+
+#informacion2{
+  background-color:  #c5e3cf;
+  border: solid 3px #3d789c;
+
+ margin:-100px;
+  width: 700px;
+  float:rigth;
+  margin-left:2%;
+}
+
+#d1{
+text-align:  justify;
+ font-family: Arial, fantasy ;
+}
+#d1{
+padding:25px;
+}
+
+#informacion p{
+ text-align:  justify;
+ font-family: Arial, fantasy ;
+}
+
+#informacion2 p{
+ text-align:  justify;
+ font-family: Arial, fantasy ;
+}
+
+#detalles1, #detalles2, #detalles3, #detalles4,#detalles5, #detalles6, #desplazo1, #desplazo2, #desplazo3, #desplazo4, #desplazo5, #desplazo6{
+  padding: 15px;
+  text-align: center;
+  background-color: #1fa4d0;
+  border: solid 1px #2dcad5;
+  font-family: '21st Century', fantasy ;
+  font-size:medium;
+  width:auto;
+}
+
+#desplazo1, #desplazo2, #desplazo3, #desplazo4, #desplazo5, #desplazo6{
+padding: 10px;
+display: none;
+}
+
+#imagenes{
+position:relative;
+left:30%;
+top:-30px;
+}
+#imagenes img{
+
+width:300px;
+height:300px;
+border-radius:500px;
+}
+
+#imagenes2{
+position:relative;
+left:74%;
+top:-300px;
+
+}
+#imagenes2 img{
+
+width:300px;
+height:300px;
+border-radius:500px;
+}
